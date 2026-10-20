@@ -1,0 +1,1 @@
+ALTER TABLE public.project_tasks ALTER COLUMN collaborator_id TYPE text;

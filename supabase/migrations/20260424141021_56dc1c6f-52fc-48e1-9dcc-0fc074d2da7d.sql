@@ -1,0 +1,1 @@
+ALTER TABLE public.meeting_resolutions ADD COLUMN IF NOT EXISTS observacoes text;

@@ -1,0 +1,1 @@
+ALTER TABLE public.tasks ADD COLUMN project_id uuid DEFAULT NULL;
